@@ -27,8 +27,8 @@ export default () => (
         <h3>Installation</h3>
         <p>
           Install{" "}
-          <a href="https://docs.scala-lang.org/getting-started-sbt-track/getting-started-with-scala-and-sbt-on-the-command-line.html">
-            Scala
+          <a href="https://get-coursier.io/docs/cli-overview.html#installation">
+            Coursier
           </a>{" "}
           to your system.
         </p>
